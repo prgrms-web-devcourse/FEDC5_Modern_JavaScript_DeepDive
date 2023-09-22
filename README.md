@@ -4,6 +4,22 @@
 **장소:** 디스코드 팀 채널 </br>
 **목표:** JavaScript 중급 이상 개념 정복하기 </br>
 
+### 🍀 진행 인원
+<table>
+ <tr>
+    <td align="center"><a href="https://github.com/junly21"><img src="https://avatars.githubusercontent.com/junly21" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/choi-ik"><img src="https://avatars.githubusercontent.com/choi-ik" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/Heeeera"><img src="https://avatars.githubusercontent.com/Heeeera" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/hj9118"><img src="https://avatars.githubusercontent.com/hj9118" width="130px;" alt=""></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/junly21">이재준<b></b></a></td>
+    <td align="center"><a href="https://github.com/choi-ik"><b>최익</b></a></td>
+    <td align="center"><a href="https://github.com/Heeeera"><b>최희라</b></a></td>
+    <td align="center"><a href="https://github.com/hj9118"><b>허지호</b></a></td>
+  </tr>
+</table>
+
 ### 👀 진행 방식
 - 정해진 분량 팀 전원이 개인적으로 학습 진행
 - 매 회 발표자는 15분간 발표 진행
